@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ML model (large file)
+models/*.pkl
+
+# Dataset files (too large for GitHub)
+dataset/
+*.csv
+scraper/raw_reviews.json
+hadoop/map/raw_reviews.json
+hadoop/map/processed_reviews.json
+
+# Node modules
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Output files
+outputs/*.png
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
