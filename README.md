@@ -16,7 +16,6 @@ E-commerce platforms face a serious challenge with fake reviews that manipulate 
 | Querying | Apache Hive |
 | Machine Learning | Spark MLlib / scikit-learn |
 | Database | MongoDB |
-| Frontend | React.js + Recharts |
 
 ## 🗂️ Dataset
 
